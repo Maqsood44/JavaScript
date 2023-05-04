@@ -1,8 +1,8 @@
-// TASK NO. 1
+// //TASK NO. 1
 // function findLeapYear(){
-// // Get full year from Date Class
+//    // Get full year from Date Class
 //     let currentYear = new Date().getFullYear()
-// //  chack for leap year
+//    //  chack for leap year
 //     if ( currentYear % 4 == 0 && currentYear % 100 !== 0 || currentYear % 400 === 0)
 //     {
 //         console.log( currentYear + " is a leap year.");   
@@ -67,7 +67,7 @@
 //     let day = currentDate.getDate() - birthDate.getDate()
 //     // chack it the month is greater then current mont or it month is equal to current month and days are  days 
 //     if (month < 0 || (month === 0 && day < 0)) {Year
-//         // Dicreas 
+//         // Decrease one
 //         Year--
 //         // Add 12 in month then it come to your acual month
 //         month += 12
